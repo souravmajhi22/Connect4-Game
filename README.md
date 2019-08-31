@@ -13,10 +13,10 @@ This game is developed in intelliJ IDEA ide.
 
 the Connect4-game looks like
 
-<img src="image/Screenshot(1).png">
+![](image/Screenshot(1).png)
 
-<img src="image/Screenshot(2).png">
+![](image/Screenshot(2).png)
 
-<img src="image/Screenshot(3).png">
+![](image/Screenshot(3).png)
 
-<img src="image/Screenshot(1).png">
+![](image/Screenshot(4).png)
