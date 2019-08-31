@@ -13,7 +13,7 @@ This game is developed in **intelliJ IDEA** ide.
 
 the _**Connect4-game**_ looks like
 
-![](image/Screenshot_1.png)
+![](/image/Screenshot _1.png)
 
 ![](image/Screenshot_2.png)
 
