@@ -7,11 +7,11 @@ vertical, or diagonal line of four of one's own discs. Connect Four is a solved 
 playing the right moves.
 <a href="https://en.wikipedia.org/wiki/Connect_Four">For more details click here</a>
 
-# This Connect4-game developed in java using javafx
+### This Connect4-game developed in java using javafx
 
-This game is developed in intelliJ IDEA ide.
+This game is developed in **intelliJ IDEA** ide.
 
-the Connect4-game looks like
+the _**Connect4-game**_ looks like
 
 ![](image/Screenshot(1).png)
 
