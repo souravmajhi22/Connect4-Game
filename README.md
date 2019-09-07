@@ -5,6 +5,12 @@ dropping one colored disc from the top into a seven-column, six-row vertically s
 occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, 
 vertical, or diagonal line of four of one's own discs. Connect Four is a solved game. The first player can always win by 
 playing the right moves.
+
+**Connect4** is a two-player connection game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column,six-row vertically suspended grid.The pieces fall straight down,occupying the lowest avaiable space within the column.
+
+The **objective** of the game is to be the first to form a horizontal,vertical,or diagonal line of four of one's own discs.
+
+**Connect-4** is a solved game . The first player can always win by playing the right moves.
 <a href="https://en.wikipedia.org/wiki/Connect_Four">For more details click here</a>
 
 ### This Connect4-game developed in java using javafx
@@ -13,10 +19,10 @@ This game is developed in **intelliJ IDEA** ide.
 
 the _**Connect4-game**_ looks like
 
-![](/image/Screenshot_1.png)
+![](/image/Screenshot1.png)
 
-![](/image/Screenshot_2.png)
+![](/image/Screenshot2.png)
 
-![](/image/Screenshot_3.png)
+![](/image/Screenshot3.png)
 
-![](/image/Screenshot_4.png)
+![](/image/Screenshot4.png)
