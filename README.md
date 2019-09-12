@@ -9,11 +9,12 @@ The **objective** of the game is to be the first to form a horizontal,vertical,o
 
 ### Connect4-game 
 
-This game is developed in **Java _jdk8_**
+This game is developed in **Java _jdk8_** .To download Java jdk8 <a href="https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">click here</a>.
 
 The **GUI** used in this game is **_JavaFx_**
 
-This game is developed in **IntelliJ IDEA** ide version 2019.2 .In the **IntelliJ** just run the code,a popup Connect-4 game window will be appeared and hence the game starts and play the game with right moves.
+This game is developed in **IntelliJ IDEA** ide version 2019.2 .
+To download **IntelliJ IDEA** <a href="https://www.jetbrains.com/idea/download/#section=windows">click here</a>. In the **IntelliJ** just run the code,a popup Connect-4 game window will be appeared and hence the game starts and play the game with right moves.
 
 The _**Connect4-game**_ looks like
 
