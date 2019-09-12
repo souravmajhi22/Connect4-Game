@@ -7,11 +7,15 @@ The **objective** of the game is to be the first to form a horizontal,vertical,o
 **Connect-4** is a solved game . The first player can always win by playing the right moves.
 <a href="https://en.wikipedia.org/wiki/Connect_Four">For more details click here</a>
 
-### This Connect4-game developed in java using javafx
+### Connect4-game 
 
-This game is developed in **intelliJ IDEA** ide.
+This game is developed in **Java _jdk8_**
 
-the _**Connect4-game**_ looks like
+The **GUI** used in this game is **_JavaFx_**
+
+This game is developed in **IntelliJ IDEA** ide version 2019.2 .In the **IntelliJ** just run the code,a popup Connect-4 game window will be appeared and hence the game starts and play the game with right moves.
+
+The _**Connect4-game**_ looks like
 
 ![](/image/screenshot1.png)
 
